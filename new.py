@@ -5,6 +5,7 @@ def prediction(X, theta):
     # 코드를 쓰세요
     return X @ theta
     
+ 
     
 # 입력 변수
 house_size = np.array([1.0, 1.5, 1.8, 5, 2.0, 2.5, 3.0, 3.5, 4.0, 5.0, 6.0, 7.0, 8.0, 8.5, 9.0, 10.0])  # 집 크기
