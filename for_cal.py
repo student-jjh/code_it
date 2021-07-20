@@ -1,5 +1,3 @@
-
-print(0.2659279778393353/2)
 def gini(a,b):
 
     sum_num=a+b
